@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Oggi updates</title>
+<item><title>Oggi 0.3.7</title><sparkle:version>12</sparkle:version><sparkle:shortVersionString>0.3.7</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description>Updated download service. Check for updates from the panel’s More menu.</description>
+<enclosure url="https://github.com/mattedwrds/oggi-downloads/releases/download/v0.3.7/Oggi-0.3.7-macOS.zip" length="2286645" type="application/octet-stream" sparkle:edSignature="1Zo4DrlRf6W87cjn65U7cZzV+rfUZb/GftpXz41aNKvn1s2yyfjurXEV8apADnmst7IvKNuJCrUZR2OW1POHCw=="></enclosure>
+</item></channel></rss><!-- sparkle-signatures:
+edSignature: dUbxE6w13JNtrX6MURDo/6LA2LWLEq8Xg5/tHLnXNT2G5HnZ6SvAGaylYcZJILKDWQcla92sXFaj+S9+JocnCA==
+length: 1016
+-->
